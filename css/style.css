@@ -3,7 +3,9 @@
 @import url('./skeleton.css'); /* Import skeleton Stylesheet */
 @import url('./nivo-slider.css'); /* Import nivo-slider Stylesheet */
 
-
+body{
+  font-family: 'Helvetica Neue', Helvetica, Tahoma, Arial, STXihei, 'Microsoft YaHei', 微软雅黑, sans-serif;
+}
 /*-----------------------------------------------------------------------------------*/
 
 /* Table of Content
