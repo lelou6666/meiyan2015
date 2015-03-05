@@ -126,14 +126,14 @@ a.portfolio-item:hover h5, .portfolio-item:hover h5 { color:#dd5362}
 .latest-twitt-box { float:left; height:100%; padding-top:10px;}
 
 .latest-block-in em { color:#aaa; font-size:12px;}
-.latest-block-in p.twitt-txt { color:#888; margin-bottom:2px;}
+.latest-block-in p.twitt-txt { color:#888; margin-bottom:2px;font-size: 16px;}
 .latest-block-in a { color:#00aeef; text-decoration:none; border-bottom:1px dotted #7dcff5; padding-bottom:2px;}
 .latest-block-in a:hover { color:#f1592a;}
 .latest-block-in h2, .latest-block-in h2 a { color:#666; font-size:28px; font-weight:300; border-bottom:1px solid #e5ecee; padding-bottom:5px; text-decoration:none;}
 .latest-block-in h2 { margin-bottom:12px; border:none}
 .latest-block-in h2 a:hover { color:#666; border-bottom-color:#ccc;}
 .latest-block-in h4 img { float:left; margin-right:6px;}
-.latest-blog-hd { width:158px; padding:3px; padding-bottom:2px; margin:7px 0 3px 0; border-radius: 3px; background:#df3447; color:#fff; font-size:12px; text-shadow:0 1px #333; font-weight:500; text-align:center;}
+.latest-blog-hd { width:158px; padding:3px; padding-bottom:2px; margin:7px 0 3px 0; border-radius: 3px; background:#df3447; color:#fff; font-size:18px; text-shadow:0 1px #333; font-weight:500; text-align:center;}
 
 
 /* FOOTER */
