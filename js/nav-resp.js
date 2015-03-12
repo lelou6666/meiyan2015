@@ -1,7 +1,7 @@
 jQuery(document).ready(function($){
 
 	/* prepend menu icon */
-	$('#nav-wrap').prepend('<div id="menu-icon">Menu - <span class="mn-clk">Navigation</span></div>');
+	$('#nav-wrap').prepend('<div id="menu-icon"><span class="mn-clk"> 查看主菜单</span></div>');
 	
 	/* toggle nav */
 	$("#menu-icon").on("click", function(){

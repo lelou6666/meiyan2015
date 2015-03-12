@@ -435,7 +435,7 @@ nav.primary ul li a:active, nav.primary ul li a.selected {	background:#ff9900;	c
 	 .nivo-caption  { left:130px; margin-top:148px;}  
 	 .take-tour { margin-bottom:30px;}
 	 .take-tour a { bottom: 228px; left:130px; }
-	 .white-space { height:110px;}
+	 .white-space { height:30px;}
 	  h4.subtitle { margin:39px 0 21px 0; }
 	 .home-content .two-thirds h1, .home-content .two-thirds h4, .home-content .two-thirds p { padding-left:0;}
      .page-subtitle {  left:90px; }
@@ -453,7 +453,7 @@ nav.primary ul li a:active, nav.primary ul li a.selected {	background:#ff9900;	c
 	#menu-icon { color: #54606b; width: 128px; font-size:16px; font-weight:400; font-family: 'Lato';	height: 30px; border-radius:1px;	background: #eaeff3 url(../images/menu-icon.png) no-repeat 10px center;	padding: 8px 10px 0 42px;	cursor: pointer;	border: solid 1px #bac7d1; box-shadow: 0 0 3px #fdfdfd inset; text-align:left;	display: block; /* how menu icon */	}
 	#menu-icon:hover {	background-color: #badfec; }
 	#menu-icon.active {	background-color: #a5acb2;	}
-	.mn-clk { font-size:12px; color:#8c98a2}
+	.mn-clk { font-size:20px; color:#8c98a2;font-weight:900;}
 	
 	/* main nav */
 	#nav {	clear: both; position: absolute; top: 58px;	width: 90%; z-index: 10000; padding:6px 12px 20px 6px;	background: #fefefe; border: solid 1px #d2d2d2;	display: none; /* visibility will be toggled with jquery */	}
